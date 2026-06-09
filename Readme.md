@@ -344,15 +344,25 @@ AI Investigation Report
 ---
 
 
-```markdown
-![Dashboard](Screenshots/dashboard.png)
-![Analytics](Screenshots/analytics.png)
-![Incidents](Screenshots/incidents.png)
-![Mitre](Screenshots/mitre.png)
-![Investigation](Screenshots/investigation.png)
-![Threat-Detection](Screenshots/threat-detection.png)
+# 📷 Screenshots
 
-```
+## Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+## Analytics
+![Analytics](Screenshots/analytics.png)
+
+## Incidents
+![Incidents](Screenshots/incidents.png)
+
+## MITRE ATT&CK
+![Mitre](Screenshots/mitre.png)
+
+## Investigation Center
+![Investigation](Screenshots/investigation.png)
+
+## Threat Detection
+![Threat Detection](Screenshots/threat-detection.png)
 
 ---
 
