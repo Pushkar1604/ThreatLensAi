@@ -345,12 +345,12 @@ AI Investigation Report
 
 
 ```markdown
-![Dashboard](screenshots/dashboard.png)
-![Analytics](screenshots/analytics.png)
-![Incidents](screenshots/incidents.png)
-![Mitre](screenshots/mitre.png)
-![Investigation](screenshots/investigation.png)
-![Threat-Detection](screenshots/threat-detection.png)
+![Dashboard](Screenshots/dashboard.png)
+![Analytics](Screenshots/analytics.png)
+![Incidents](Screenshots/incidents.png)
+![Mitre](Screenshots/mitre.png)
+![Investigation](Screenshots/investigation.png)
+![Threat-Detection](Screenshots/threat-detection.png)
 
 ```
 
